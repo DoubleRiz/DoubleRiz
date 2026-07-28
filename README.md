@@ -35,7 +35,6 @@ Issu du monde du management digital (IT, réseau, sécurité), j'ai développé 
 ![Xano](https://img.shields.io/badge/Xano-FFC800?style=for-the-badge&logoColor=1D1D1F)
 ![Firebase](https://img.shields.io/badge/Firebase-1D1D1F?style=for-the-badge&logo=firebase&logoColor=FFC800)
 ![Neon](https://img.shields.io/badge/Neon-FFC800?style=for-the-badge&logo=neon&logoColor=1D1D1F)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-1D1D1F?style=for-the-badge&logoColor=FFC800)
 
 **Automatisation**
 
