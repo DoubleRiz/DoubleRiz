@@ -63,7 +63,7 @@ Issu du monde du management digital (IT, réseau, sécurité), j'ai développé 
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DoubleRiz&theme=dark&background=1D1D1F&border=FFC800&ring=FFC800&fire=FFC800&currStreakLabel=FFC800&sideLabels=F7F5F0&dates=86868B&currStreakNum=F7F5F0&sideNums=F7F5F0)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 </div>
 
