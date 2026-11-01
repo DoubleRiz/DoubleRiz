@@ -72,16 +72,6 @@ Issu du monde du management digital (IT, réseau, sécurité), j'ai développé 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
-
-</div>
-
----
-
 <div align="center">
 
 *conçu avec 🟡 par Gautier*
